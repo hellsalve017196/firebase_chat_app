@@ -1,3 +1,3 @@
-Photo App
+Firebase Ionic Chat App
 =====================
-It takes a photo via camera and rotates 60 deg
+build with ionic and firebase
