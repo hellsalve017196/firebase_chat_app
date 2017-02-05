@@ -14,7 +14,7 @@ cd www/index.html
 ```
 
 # DEMO
-http://agatafeedmill.com/chat/
+http://www.aliabdullahkhan.info/projects/chat_app/www/
 
 set a name for chat
 
